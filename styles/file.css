@@ -3,3 +3,10 @@ p,h1,a{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 
 }
+body {
+    background-image: url('./resource/background/102.jpg');
+    background-size: cover; /* Optional: Make the image cover the entire background */
+    background-attachment: fixed; /* Optional: Keep the background fixed while scrolling */
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
