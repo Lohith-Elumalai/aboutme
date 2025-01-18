@@ -5,8 +5,7 @@ p,h1,a{
 }
 body {
     background-image: url('./resource/background/102.jpg');
-    background-size: cover; /* Optional: Make the image cover the entire background */
-    background-attachment: fixed; /* Optional: Keep the background fixed while scrolling */
-    margin: 0;
-    font-family: Arial, sans-serif;
+    background-color: lightgray; /* This color will show if the image is missing */
+    background-size: cover;
+    background-attachment: fixed;
 }
