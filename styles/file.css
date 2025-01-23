@@ -5,7 +5,7 @@ p,h1,a{
 }
 body {
     background-image: url('./resource/background/102.jpg');
-    background-color: lightgray; /* This color will show if the image is missing */
+    background-color: lightgray;
     background-size: cover;
     background-attachment: fixed;
 }
